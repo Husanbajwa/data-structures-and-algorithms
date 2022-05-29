@@ -4,7 +4,6 @@ int main()
 {
     int arr[5];
     int loc;
-    int pos;
     int n;
     cout<<" Enter 5 Elements For List ";
     for (int i = 0; i < 5; i++)
